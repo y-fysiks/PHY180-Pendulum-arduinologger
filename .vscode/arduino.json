@@ -1,0 +1,5 @@
+{
+    "sketch": "PHY180-Pendulum-arduinologger.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7"
+}
